@@ -1,5 +1,5 @@
 # STM32 Smart Car with Multifunctional Development Board
-![](https://category.yahboom.net/products/ros-driver-board)
+![](https://github.com/YahboomTechnology/STM32-BoardCar/blob/main/STM32_Car_Yahboom.jpg)
 # Introduction
 This robot control board is not only a ROS car driver board, but also a STM32 core development board. It integrates STM32 core control unit, MPU9250 nine-axis attitude sensor and other components, and provides four-way encoder motor, four-way PWM servo, serial bus servo, RGB light bar and other peripheral interfaces. It can communicate and supply power with main control boards such as Raspberry Pi, JETSON series boards, and industrial computers. If you want to build a ROS robot or a smart car, it will be a good choice.
 # Features
